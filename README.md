@@ -42,7 +42,7 @@ db-manager/
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/db-manager.git
+git clone https://github.com/CAPalacio03/db-manager.git
 cd db-manager
 ```
 
